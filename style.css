@@ -11,7 +11,7 @@
 .optionbar{
     border:solid 3px rgb(174, 96, 96);
     border-radius: 10px;
-    background-color: rgb(156, 214, 212);
+    background-color: rgb(193, 255, 247);
     width: 50%;
     height:50px;
    
@@ -26,10 +26,12 @@
    
 }
 .selections{
-    background-image: url("images/wp4323467-blood-donation-wallpapers.jpg");
+    background-image: url('images/wp4323467-blood-donation-wallpapers.jpg');
     background-size: cover;
+    
     height:300px;
     width:95%;
+   
   
    
 }
@@ -37,4 +39,17 @@
     max-width: 90%;
     height: auto;
     padding:0px;
+    border-radius: 50%;
+    box-shadow: 5px 5px 10px rgb(143, 3, 3);
+}
+option{
+    color:black;
+    font-weight: bold;
+}
+select{
+    
+    
+    color:rgb(6, 99, 9);
+    font-weight: bold;
+    font-size:large;
 }
