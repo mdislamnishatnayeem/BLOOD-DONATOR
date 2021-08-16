@@ -1,0 +1,17 @@
+.bg-light{
+    background-image: linear-gradient(to left,rgb(133, 33, 16) 0%,rgb(255, 0, 0) 100%);
+    border-radius: 10px;
+}
+
+.optionbar{
+    border:solid 1px red;
+    
+}
+#NAME{
+    background-image: linear-gradient(white,gray);
+    color: red;
+    height: 100%;
+    margin: 0px;
+    border-radius: 10px;
+    padding: 2px 5px;
+}
