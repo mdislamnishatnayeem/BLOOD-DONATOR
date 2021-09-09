@@ -1,11 +1,15 @@
 
+
+
 .bg-light{
     background-image: linear-gradient(to left,rgb(133, 33, 16) 0%,rgb(255, 0, 0) 100%);
     border-bottom-left-radius:10px;
     border-bottom-right-radius:10px;
     color: white;
     padding: 0px;
+    
    
+
 }
 
 .optionbar{
@@ -14,6 +18,8 @@
     background-color: rgb(193, 255, 247);
     width: 80%;
     height:50px;
+    
+    
    
     
 }
